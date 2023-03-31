@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xavierloeraflores
-- 👀 I’m interested in AI and 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 Software Engineer with deep experience in the Node ecosystem
+- 👀 Currently learning Golang and looking to enter AI industry
 - 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
 - 💻 www.LoeraFlores.tech 
 

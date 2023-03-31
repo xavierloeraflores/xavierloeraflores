@@ -9,7 +9,7 @@
 
 ## GitHub Stats and Activities
 
-<img alt="rajtilakjee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavierloeraflores&show_icons=true&theme=vue&count_private=true" height="192px"/>&emsp;<img alt="xavierloeraflores's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloeraflores&theme=vue&count_private=true&hide=css,c,html&layout=compact" height="192px"/>
+<img alt="rajtilakjee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavierloeraflores&show_icons=true&theme=github_dark&count_private=true" height="192px"/>&emsp;<img alt="xavierloeraflores's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloeraflores&theme=github_dark&count_private=true&hide=css,c,html&layout=compact" height="192px"/>
 
 
 

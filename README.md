@@ -9,4 +9,10 @@
 
 ## GitHub Stats and Activities
 
-<a href="https://github.com/xavierloeraflores"><img alt="rajtilakjee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavierloeraflores&show_icons=true&theme=vue&count_private=true" height="192px"/></a> &emsp; <a href="https://github.com/xavierloeraflores/"><img alt="xavierloeraflores's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloeraflores&langs_count=5&theme=vue&count_private=true&hide=css,c,html" height="192px"/></a>
+<img alt="rajtilakjee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavierloeraflores&show_icons=true&theme=vue&count_private=true" height="192px"/>&emsp;
+
+<img alt="xavierloeraflores's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloeraflores&theme=vue&count_private=true&hide=css,c,html&layout=compact" height="192px"/>
+
+
+
+[comment]: <> (https://github.com/anuraghazra/github-readme-stats)

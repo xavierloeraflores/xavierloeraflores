@@ -73,3 +73,19 @@
 
 
 [comment]: <> (https://github.com/anuraghazra/github-readme-stats)
+
+
+## Employment History
+Fullstack Academy
+
+Begin Software
+
+Inkfluencer.io
+
+MappyCoin.com
+
+CodePath.org
+
+
+
+

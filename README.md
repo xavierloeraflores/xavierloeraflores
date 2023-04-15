@@ -77,18 +77,18 @@
 
 
 ## Employment History
-Fullstack Academy
+Fullstack Academy | Feb 2023 - Present
 
-Begin Software
+Begin Software | Jun 2022 - Dec 2022
 
-Inkfluencer.io
+Inkfluencer.io | Feb 2022 - Aug 2022
 
-MappyCoin.com
+MappyCoin.com | Aug 2021 - Mar 2022
 
-CodePath.org
+CodePath.org | Jun 2021 - Aug 2021
 
 
-### Open Source Contributions: 
+### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges
 
 

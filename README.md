@@ -90,6 +90,7 @@ CodePath.org | Jun 2021 - Aug 2021
 
 ### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges
+https://github.com/raycast/extensions
 
 
 ### Volunteering

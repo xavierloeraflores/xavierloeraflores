@@ -4,6 +4,8 @@
 - 🎓 Finishing a Bachelor's Degree at Western Governors University
 - 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
 - 💻 www.LoeraFlores.tech 
+- 📩 xavier@loeraflores.tech
+
 
 
 # Tech Stack

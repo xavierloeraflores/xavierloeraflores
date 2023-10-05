@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xavierloeraflores
 - 🌱 Software Engineer with deep experience in the Node ecosystem
 - 👀 Learning Golang and looking to enter AI industry
-- 🎓 Finishing a Bachelor's Degree at Western Governors University
+- 🎓 BS in CS @ Western Governors University Fall 2023
 - 💼 Actively looking for new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
 - 💻 www.LoeraFlores.tech 

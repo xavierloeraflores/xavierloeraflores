@@ -4,7 +4,7 @@
 - 🎓 BS in CS @ Western Governors University Fall 2023
 - 💼 Actively looking for new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
-- 💻 www.LoeraFlores.tech 
+- 💻 Porfolio: [www.LoeraFlores.tech](https://loeraflores.tech) 
 - 📩 xavier@loeraflores.tech
 
 

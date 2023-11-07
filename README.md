@@ -2,6 +2,8 @@
 - 🌱 Software Engineer with deep experience in the Node ecosystem
 - 👀 Learning Golang and looking to enter AI industry
 - 🎓 BS in CS @ Western Governors University Fall 2023
+- 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
+- 🎓 AS in CS @ Mission College Fall 2022
 - 💼 Actively looking for new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
 - 💻 Porfolio: [www.LoeraFlores.tech](https://loeraflores.tech) 

@@ -5,7 +5,9 @@
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in CS @ Mission College Fall 2022
 - 💼 Actively looking for new opportunities
-- 📫 How to reach me https://www.linkedin.com/in/xavierloeraflores/ 
+
+- 📫 LinkedIn: [/in/xavierloeraflores](https://www.linkedin.com/in/xavierloeraflores/)
+- ☁️ BlueSky: [loeraflores.bsky.social](https://bsky.app/profile/loeraflores.bsky.social) 
 - 💻 Porfolio: [www.LoeraFlores.tech](https://loeraflores.tech) 
 - 📩 xavier@loeraflores.tech
 

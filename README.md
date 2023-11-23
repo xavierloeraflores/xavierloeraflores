@@ -98,6 +98,9 @@ MappyCoin.com | Aug 2021 - Mar 2022
 
 CodePath.org | Jun 2021 - Aug 2021
 
+## Projects
+- [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
+
 
 ### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges

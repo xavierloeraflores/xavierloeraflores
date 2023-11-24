@@ -99,6 +99,7 @@ MappyCoin.com | Aug 2021 - Mar 2022
 CodePath.org | Jun 2021 - Aug 2021
 
 ## Projects
+- [Xavier's List](https://github.com/xavierloeraflores/xavierslist) (In Progress)
 - [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 
 

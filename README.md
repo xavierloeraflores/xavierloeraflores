@@ -1,17 +1,16 @@
-- 👋 Hi, I’m @xavierloeraflores
+- 👋 Hi, I’m Xavier Loera Flores
 - 🌱 Software Engineer with deep experience in the Node ecosystem
 - 👀 Learning Golang and looking to enter AI industry
 - 🎓 BS in CS @ Western Governors University Spring 2024
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in CS @ Mission College Fall 2022
 - 💼 Actively looking for new opportunities
-
+---
+- 💻 [www.LoeraFlores.com](https://loeraflores.com) 
+- 📩 xavier@loeraflores.tech
+---
 - 📫 LinkedIn: [/in/xavierloeraflores](https://www.linkedin.com/in/xavierloeraflores/)
 - ☁️ BlueSky: [loeraflores.bsky.social](https://bsky.app/profile/loeraflores.bsky.social) 
-- 💻 Porfolio: [www.LoeraFlores.tech](https://loeraflores.tech) 
-- 📩 xavier@loeraflores.tech
-
-
 
 # Tech Stack
 
@@ -98,8 +97,9 @@ MappyCoin.com | Aug 2021 - Mar 2022
 
 CodePath.org | Jun 2021 - Aug 2021
 
+
+
 ## Projects
-- [Xavier's List](https://github.com/xavierloeraflores/xavierslist) (In Progress)
 - [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 
 

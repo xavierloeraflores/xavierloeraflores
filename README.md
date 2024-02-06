@@ -8,9 +8,7 @@
 ---
 - 💻 [www.LoeraFlores.com](https://loeraflores.com) 
 - 📩 xavier@loeraflores.tech
----
-- 📫 LinkedIn: [/in/xavierloeraflores](https://www.linkedin.com/in/xavierloeraflores/)
-- ☁️ BlueSky: [loeraflores.bsky.social](https://bsky.app/profile/loeraflores.bsky.social) 
+- 📫 LinkedIn: [/in/xavierloeraflores](https://www.linkedin.com/in/xavierloeraflores/) 
 
 # Tech Stack
 

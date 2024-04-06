@@ -109,7 +109,6 @@ https://github.com/raycast/extensions
 
 ### Volunteering
 - [Esports One](https://metarena.esportsone.com)
-- [RadicalX](https://www.radicalx.co)
 
 ### Crypto Supporter
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)

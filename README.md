@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Xavier Loera Flores
 - 🌱 Software Engineer with deep experience in the Node ecosystem
 - 👀 Learning Golang and looking to enter AI industry
-- 🎓 BS in CS @ Western Governors University Spring 2024
+- 🎓 BS in Computer Science @ Western Governors University Spring 2024
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
-- 🎓 AS in CS @ Mission College Fall 2022
+- 🎓 AS in Computer Information Systems @ Mission College Fall 2022
 - 🎓 AS in Math & Science @ Mission College Spring 2020
 - 💼 Actively looking for new opportunities
 ---

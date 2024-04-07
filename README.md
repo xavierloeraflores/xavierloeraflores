@@ -4,6 +4,7 @@
 - 🎓 BS in CS @ Western Governors University Spring 2024
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in CS @ Mission College Fall 2022
+- 🎓 AS in Math & Science @ Mission College Spring 2020
 - 💼 Actively looking for new opportunities
 ---
 - 💻 [www.LoeraFlores.com](https://loeraflores.com) 

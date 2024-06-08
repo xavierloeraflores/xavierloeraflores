@@ -99,7 +99,7 @@ CodePath.org | Jun 2021 - Aug 2021
 
 
 ## Projects
-- [ML Racism Detector](https://github.com/xavierloeraflores/wgu-capstone) : [API Docs](https://wgu-capstone-docs.vercel.app) | [Frontend](https://wgu-capstone-xavier-loera-flores.vercel.app)
+- [ML Content Moderation](https://github.com/xavierloeraflores/wgu-capstone) : [API Docs](https://wgu-capstone-docs.vercel.app) | [Frontend](https://wgu-capstone-xavier-loera-flores.vercel.app)
 - [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 
 

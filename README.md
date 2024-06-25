@@ -5,7 +5,6 @@
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in Computer Information Systems @ Mission College Fall 2022
 - 🎓 AS in Math & Science @ Mission College Spring 2020
-- 💼 Actively looking for new opportunities
 ---
 - 💻 [www.LoeraFlores.com](https://loeraflores.com) 
 - 📩 xavier@loeraflores.tech
@@ -99,6 +98,7 @@ CodePath.org | Jun 2021 - Aug 2021
 
 
 ## Projects
+- [ScamScanner](https://github.com/ScamScanners):[DevPost](https://devpost.com/software/scamscammer) | [Video Demo](https://www.youtube.com/watch?v=NEVwVvFSi5c)
 - [ML Content Moderation](https://github.com/xavierloeraflores/wgu-capstone) : [API Docs](https://wgu-capstone-docs.vercel.app) | [Frontend](https://wgu-capstone-xavier-loera-flores.vercel.app)
 - [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 
@@ -106,6 +106,10 @@ CodePath.org | Jun 2021 - Aug 2021
 ### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges
 https://github.com/raycast/extensions
+
+### Awards
+- UC Berkeley AI 2024 Hackathon: Hume's Most Socially Impactful Empathetic AI Integration
+- UC Berkeley AI 2024 Hackathon: Groq's Star Award
 
 
 ### Volunteering

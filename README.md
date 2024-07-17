@@ -85,25 +85,24 @@
 
 
 ## Employment History
-Scam Scanner | Jun 2024 - Present
-
-Fullstack Academy | Feb 2023 - Present
-
-Begin Software | Jun 2022 - Dec 2022
-
-Inkfluencer.io | Feb 2022 - Aug 2022
-
-MappyCoin.com | Aug 2021 - Mar 2022
-
-CodePath.org | Jun 2021 - Aug 2021
+| Company | Position | Dates |
+|--|--|--|
+|Scam Scanner | Founder | Jun 2024 - Present|
+|Fullstack Academy | Fullstack Developer & Amazon Software Mentor II | Feb 2023 - Present|
+|Begin Software | Automation Developer | Jun 2022 - Dec 2022|
+|Inkfluencer.io | Software Engineer | Feb 2022 - Aug 2022|
+|MappyCoin.com | React Developer & Community Manager | Aug 2021 - Mar 2022|
+|CodePath.org | Fullstack Developer | Jun 2021 - Aug 2021|
 
 
 
 ## Projects
-- [ScamScanner](https://github.com/ScamScanners) : [DevPost](https://devpost.com/software/scamscammer) | [Video Demo](https://www.youtube.com/watch?v=NEVwVvFSi5c) | [Github](https://github.com/ScamScanners)
-- [ML Content Moderation](https://github.com/xavierloeraflores/wgu-capstone) : [API Docs](https://wgu-capstone-docs.vercel.app) | [Frontend](https://wgu-capstone-xavier-loera-flores.vercel.app)
-- [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 
+|Project|Extra Links|
+|---|----|
+|[ScamScanner](https://github.com/ScamScanners) |  [Live Site](https://scam-scanner.vercel.app) - [DevPost](https://devpost.com/software/scamscammer) - [Video Demo](https://www.youtube.com/watch?v=NEVwVvFSi5c) |
+|[ML Content Moderation](https://github.com/xavierloeraflores/wgu-capstone) | [Live Site](https://wgu-capstone-xavier-loera-flores.vercel.app) - [API Docs](https://wgu-capstone-docs.vercel.app) |
+|[Kurios](https://github.com/SITE-Capstone) | [Backend Code](https://github.com/SITE-Capstone/capstone_be) - [Frontend Code](https://github.com/SITE-Capstone/capstone_fe)|
 
 ### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges

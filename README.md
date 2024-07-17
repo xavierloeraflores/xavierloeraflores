@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xavier Loera Flores
-- 🌱 Software Engineer with deep experience in the Node ecosystem
-- 👀 Learning Golang and looking to enter AI industry
+- 🌱 Software Engineer with deep experience building fullstack applications with TypeScript, Python, Go
+- 🎓 MS in Data Analytics specializing in Data Science @ Western Governors University Fall 2025
 - 🎓 BS in Computer Science @ Western Governors University Spring 2024
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in Computer Information Systems @ Mission College Fall 2022
@@ -100,7 +100,7 @@ CodePath.org | Jun 2021 - Aug 2021
 
 
 ## Projects
-- [ScamScanner](https://github.com/ScamScanners):[DevPost](https://devpost.com/software/scamscammer) | [Video Demo](https://www.youtube.com/watch?v=NEVwVvFSi5c) | [Github](https://github.com/ScamScanners)
+- [ScamScanner](https://github.com/ScamScanners) : [DevPost](https://devpost.com/software/scamscammer) | [Video Demo](https://www.youtube.com/watch?v=NEVwVvFSi5c) | [Github](https://github.com/ScamScanners)
 - [ML Content Moderation](https://github.com/xavierloeraflores/wgu-capstone) : [API Docs](https://wgu-capstone-docs.vercel.app) | [Frontend](https://wgu-capstone-xavier-loera-flores.vercel.app)
 - [Kurios](https://github.com/SITE-Capstone) : [Backend](https://github.com/SITE-Capstone/capstone_be) | [Frontend](https://github.com/SITE-Capstone/capstone_fe)
 

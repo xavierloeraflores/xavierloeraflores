@@ -109,6 +109,7 @@ https://github.com/Ileriayo/markdown-badges
 https://github.com/raycast/extensions
 
 ### Awards
+- AI Agents 2.0 Hackathon: 1st Place Overall
 - UC Berkeley AI 2024 Hackathon: Hume's Most Socially Impactful Empathetic AI Integration
 - UC Berkeley AI 2024 Hackathon: Groq's Star Award
 

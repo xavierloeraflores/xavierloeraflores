@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xavier Loera Flores
 - 🌱 Software Engineer with deep experience building fullstack applications with TypeScript, Python, Go
-- 🎓 MS in Data Analytics specializing in Data Science @ Western Governors University Fall 2025
+- 🎓 MS in Data Analytics specializing in Data Science @ Western Governors University Fall 2024 - June 2025
 - 🎓 BS in Computer Science @ Western Governors University Spring 2024
 - 🎓 Bootcamp in Fullstack Web Development @ San Jose State Universtiy/Fullstack Academy Fall 2021
 - 🎓 AS in Computer Information Systems @ Mission College Fall 2022

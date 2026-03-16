@@ -18,13 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-## GitHub Stats and Activities
-<img alt="rajtilakjee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavierloeraflores&show_icons=true&theme=github_dark&count_private=true" height="192px"/>&emsp;<img alt="xavierloeraflores's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierloeraflores&theme=github_dark&count_private=true&hide=css,c,html&layout=compact" height="192px"/>
-
 
 
 [comment]: <> (https://github.com/anuraghazra/github-readme-stats)
@@ -53,25 +46,10 @@
 ### Open Source Contributions 
 https://github.com/Ileriayo/markdown-badges
 https://github.com/raycast/extensions
+https://github.com/xavierloeraflores/vercel-redirect
 
 ### Awards
 - AI Agents 2.0 Hackathon: 1st Place Overall
 - UC Berkeley AI 2024 Hackathon: Hume's Most Socially Impactful Empathetic AI Integration
 - UC Berkeley AI 2024 Hackathon: Groq's Star Award
-
-
-### Volunteering
-- [Esports One](https://metarena.esportsone.com)
-
-### Crypto Supporter
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-
-
-
-
-
-
 

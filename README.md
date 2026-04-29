@@ -15,17 +15,6 @@
 [comment]: <> (https://github.com/anuraghazra/github-readme-stats)
 
 
-## Employment History
-| Company | Position | Dates |
-|--|--|--|
-|Scam Scanner | Founder | Jun 2024 - Present|
-|Fullstack Academy | Fullstack Developer & Amazon Software Mentor II | Feb 2023 - Present|
-|Begin Software | Automation Developer | Jun 2022 - Dec 2022|
-|Inkfluencer.io | Software Engineer | Feb 2022 - Aug 2022|
-|MappyCoin.com | React Developer & Community Manager | Aug 2021 - Mar 2022|
-|CodePath.org | Fullstack Developer | Jun 2021 - Aug 2021|
-
-
 
 ## Projects
 
